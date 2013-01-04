@@ -1,0 +1,34 @@
+Arduino/ATmega328p Pin Assignments
+
+Port B
+
+B0,d8 - key row bit 0
+B1,d9 - key row bit 1
+B2,d10 - key row bit 2
+B3,d11 - spi mosi - led modules
+B4,d12 - spi miso - not used
+B5,d13 - spi sck  - led modules
+B6 - na
+B7 - na
+
+Port C
+
+C0,a0 - key col0
+C1,a1 - key col1
+C2,a2 - key col2
+C3,a3 - key col3
+C4,a4 -
+C5,a5 -
+C6 - na
+
+Port D
+
+D0,d0 - serial rx
+D1,d1 - serial tx
+D2,d2 - lcd register select
+D3,d3 - lcd enable
+D4,d4 - lcd d4
+D5,d5 - lcd d5
+D6,d6 - lcd d6
+D7,d7 - lcd d7
+
